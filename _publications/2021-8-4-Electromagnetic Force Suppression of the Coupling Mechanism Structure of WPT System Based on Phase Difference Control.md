@@ -1,0 +1,60 @@
+---
+title: "Electromagnetic Force Suppression of the Coupling Mechanism Structure of WPT System Based on Phase Difference Control"
+collection: publications
+permalink: /publication/2021-8-4-Electromagnetic Force Suppression of the Coupling Mechanism Structure of WPT System Based on Phase Difference Control
+excerpt: 'The wireless power transmission system operating in the high-frequency electromagnetic field environment is subjected to electromagnetic force, and the long-term action will cause damage to the magnetic shield structure, coil deformation, and insulation damage. This article is about weakening the influence of structure electromagnetic force on the coupling mechanism of wireless power transmission system. First, analyze the structural electromagnetic force characteristics of the coupling mechanism of the wireless power transmission system from the perspective of frequency domain, and determine the relationship between the structural electromagnetic force characteristics and the phase of the current flowing through the coupling coil. Second, a structural electromagnetic force suppression scheme based on phase difference control is proposed. Using a two-wire parallel coupling structure, by adjusting the inductance of the adjustable branch connected in series to a certain transmitting coil branch, the phase of the current flowing through the coupling coil can be adjusted.Finally, the macroscopic force performance of the coupling mechanism is weakened. At the same time,an experimental platform was built to verify the effectiveness of the method.'
+date: 2021-8-4
+venue: 'Transactions of China Electrotechnical Society'
+slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-Electromagnetic Force Suppression of the Coupling Mechanism Structure of WPT System Based on Phase Difference Control.pdf'
+paperurl: 'http://fengxian-wang.github.io/files/Paper-Electromagnetic Force Suppression of the Coupling Mechanism Structure of WPT System Based on Phase Difference Control.pdf'
+citation: 'Fengxian Wang, Xian Zhang, Qingxin Yang, Lin Sha, Nianzhen Ren, Zhiyuan Fu. Electromagnetic Force Suppression of the Coupling Mechanism Structure of WPT System Based on Phase Difference Control. <i>Transactions of China Electrotechnical Society</i>. 37(01).'
+---
+
+ **DOI link:**
+  [10.19595/j.CNKI.1000-6753.TCES.201465](https://doi.org/10.19595/j.cnki.1000-6753.tces.201465)
+
+  
+
+  **Keywords:**
+Electric Vehicles, Dynamic Wireless Charging, Self-Decoupling, Position Detection, Dual-Mode Switching.
+
+  
+
+  **What - Clarification of the Core Content:**
+
+  
+
+  - This study focuses on the issue of structural electromagnetic forces in wireless power transmission systems that can lead to damages such as deformation of coils and magnetic shielding structures.
+  - A suppression method is proposed based on the control of phase differences, utilizing a dual-wire parallel coupling structure with adjustable branch inductors in specific transmission coil branches.
+
+  
+
+  **Why - Analysis of the Purpose:**
+
+  - The study aims to diminish the impact of structural electromagnetic forces on the coupling mechanism of WPT systems, ensuring stable and efficient power transmission.
+  - The study provides theoretical insights and practical solutions to reduce the mechanical stress caused by the high-frequency currents within the coupling coils and shielding layers.
+
+  
+
+  **How - Description of the Methods Used:**
+
+  - A mathematical model is established to determine the relationship between the structural electromagnetic forces and the phase of the current through the coupling coils.
+  - An experimental platform is constructed to validate the suppression method's effectiveness, involving the adjustment of adjustable branch inductance to achieve phase shift between currents.
+
+  
+
+  **Key Findings and Insights:**
+
+  - The study shows that adjusting the inductance values can indeed cause a phase shift in the currents through the coupling coils, effectively reducing the macroscopic force experienced by the coupling mechanism.
+  - The experimental platform confirms that increasing the adjustable branch inductance leads to a decrease in the magnetic field strength within the coupling space, thus reducing the overall structural electromagnetic force.
+
+  
+
+  **Examples of Critical Solutions Proposed:**
+
+  - The proposed method confirms sustainable levitation at increased velocities and demonstrates the restraining capability of the optimized coil structure to mitigate the effects of EMF during faults.
+
+
+  **Research Gaps and Future Work:**
+
+  - While the study successfully validates the suppression method, further research is needed to explore its application under varying operational conditions and to integrate it into real-world systems.

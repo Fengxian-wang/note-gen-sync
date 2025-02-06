@@ -1,0 +1,61 @@
+---
+title: "A-High Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses"
+collection: publications
+permalink: /publication/2024-4-25-A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses
+excerpt: 'This paper proposes a high-efficiency underwater hybrid wireless power transfer (UHWPT) system with low plate voltage stresses to ensure a safe and stable power supply for underwater electrical equipment. The power transfer channel is constituted by an integrated magnetic-electric coupler, formed by nesting coils into C-shaped plates and integrating them into the LC-compensated topology. The impact of the geometric dimensions and insulation on electrical parameters is explored to provide a reference basis for designing the integrated magnetic-electric coupler. A system design method based on the double optimization parameters is hereby proposed. Then, an experimental prototype is set up to verify the feasibility of the design method. Experimental results show that the system achieves the load-independent constant current (CC) output with a maximum efficiency of 87.8%.'
+date: 2024-4-25
+venue: 'IEEE Transactions on Power Electronics'
+slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-A-High Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses.pdf'
+paperurl: 'http://fengxian-wang.github.io/files/Paper-A-High Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses.pdf'
+citation: 'Xian Zhang, Guangyao Li, Ting Chen, Fengxian Wang*, Qingxin Yang, Weida Xu. A High-Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses. <i>IEEE Transactions on Power Electronics</i>. Early Access.'
+---
+
+ **DOI link:**
+  [10.1109/TPEL.2024.3392375](https://doi.org/10.1109/TPEL.2024.3392375)
+
+  
+
+  **Keywords:**
+  Wireless Power Transfer, Underwater Operation, Hybrid System Design, Low Voltage Stresses, Constant Current Output.
+
+  
+
+  **What - Clarification of the Core Content:**
+
+  
+
+  - This study introduces an underwater hybrid wireless power transfer (UHWPT) system designed to maintain the safety and stability of power supplies for underwater electrical equipment through the integration of magnetic-electric couplers into an LC-compensated topology.
+
+  
+
+  **Why - Analysis of the Purpose:**
+
+  - The study aims to address the issues of efficiency and voltage stresses in underwater power systems, particularly the risks associated with eddy current losses in seawater.
+  - The study proposes a novel design that integrates both magnetic and electric field coupling channels to improve power transfer while managing the system's efficiency and reducing voltage stresses.
+
+  
+
+  **How - Description of the Methods Used:**
+
+  - The system's working principle is scrutinized to establish the relationship between circuit parameters and efficiency.
+  - The geometric dimensions and insulation impact on electrical parameters are examined, and a design method based on double optimization parameters is proposed.
+  - An experimental prototype validating the system's efficiency, constant current output, and voltage suppression capabilities is developed.
+
+  
+
+  **Key Findings and Insights:**
+
+  - The integrated coupler shows significant improvements in efficiency (maximizing at 87.8% under certain conditions) and a marked reduction in coil currents and SIP voltage stresses.
+  - The system verifies load-independent constant current output, showcasing its robustness across varying load resistances.
+
+  
+
+  **Examples of Critical Solutions Proposed:**
+
+  - The LC-compensated UHWPT system effectively combines the benefits of inductive and capacitive power transfer techniques, leading to an efficient and safe power transfer solution for underwater applications.
+
+    
+
+  **Research Gaps and Future Work:**
+
+  - Future work should consider the insulation isolation between same-side plates and coils, evaluating the optimal gap for effective insulation and targeted measures.
