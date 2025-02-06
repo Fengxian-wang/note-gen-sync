@@ -8,6 +8,7 @@ venue: 'IEEE Transactions on Power Electronics'
 slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
 paperurl: 'http://fengxian-wang.github.io/files/Paper-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
 citation: 'Xian Zhang, Fengxian Wang*, Xuejing Ni, Yanan Ren, Qingxin Yang. Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions. <i>IEEE Access</i>. 8.'
+
 ---
 
 **DOI link:**
@@ -51,7 +52,7 @@ Wireless Power Transfer, Failure Analysis, Electromagnetic Force, Stress Distrib
 
 - The study found that the magnetic induction strength and surface stress were consistent, and both were related to the distribution of the coil currents.
 - The EMF amplitude ratio before and after the fault is about the square of the fault current ratio, indicating a significant increase in EMF during faults.
--  The experimental results are in line with the simulated findings, substantiating the theoretical modeling approach.
+- The experimental results are in line with the simulated findings, substantiating the theoretical modeling approach.
 
 
 
