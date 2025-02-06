@@ -1,12 +1,12 @@
 ---
 title: "Enhancing Misalignment Tolerance in Hybrid Wireless Power Transfer System With Integrated Coupler via Frequency Tuning"
 collection: publications
-permalink: /publication/2024-6-20
+permalink: /publication/2024-6-20-Enhancing Misalignment Tolerance in Hybrid Wireless Power Transfer System With Integrated Coupler via Frequency Tuning
 excerpt: 'To enhance the misalignment tolerance and system integration of the wireless power transfer (WPT) system, an integrated coupler consisting of capacitors and coils overlapped coaxially is proposed in this article and integrated into the hybrid WPT (HWPT) system without extra compensation components. The system utilizes the complementary characteristics of different transmission channels to realize the synergistic transfer of different coupled powers under a wide coupling range. Based on the mutual influence between capacitors and coils in terms of electrical parameters in a limited axial projection area and the zero-phase-angle condition considering the mutual capacitance obtained by the fundamental harmonics approximation method, the method of regulating the transfer ratio of the two types of coupled powers is mastered. A method to realize the HWPT with high misalignment tolerance characteristics by frequency tracking is proposed to solve the problem of the system's resonant state being disrupted when the position of the integrated coupler is misaligned. The field-circuit coupling model verifies the feasibility of the analysis and transfer method......'
 date: 2024-6-20
 venue: 'IEEE Transactions on Power Electronics'
-slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
-paperurl: 'http://fengxian-wang.github.io/files/Paper-Structure Electromagnetic Force Analysis of WPT System Under Fault Conditions.pdf'
+slidesurl: 'http://fengxian-wang.github.io/files/Slidesur-A-High Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses.pdf'
+paperurl: 'http://fengxian-wang.github.io/files/Paper-A-High Efficiency Underwater Hybrid Wireless Power Transfer System with Low Plate Voltage Stresses.pdf'
 citation: 'Fengxian Wang, Qingxin Yang*, Xian Zhang*, Ting Chen, Guangyao Li. Enhancing Misalignment Tolerance in Hybrid Wireless Power Transfer System With Integrated Coupler via Frequency Tuning. <i>IEEE Transactions on Power Electronics</i>. 39(9).'
 ---
 
